@@ -35,12 +35,11 @@ content:
     country: United States
     country_code: US
   coordinates:
-    latitude: '37.4275'
-    longitude: '-122.1697'
-  directions: Innovation Hub, 4th Floor.
+    latitude: '40.792263'
+    longitude: '-77.863333'
+  directions: Penn State, Innovation Hub, 4th Floor.
   office_hours:
-    - 'Monday 10:00 to 13:00'
-    - 'Wednesday 09:00 to 10:00'
+    - 'Friday 10:00 to 12:00'
   appointment_url: 'https://calendly.com'
   contact_links:
     - icon: twitter
@@ -50,7 +49,7 @@ content:
     - icon: video
       icon_pack: fas
       name: Zoom Me
-      link: 'https://zoom.com'
+      link: 'jsl5710@psu.edu'
 
 design:
   columns: '2'
