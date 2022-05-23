@@ -19,16 +19,16 @@ bio: My research interests include distributed robotics, mobile computing and pr
 # Interests to show in About widget
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
+  - Natural Language Processing
   - Information Retrieval
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
+    - course: PhD in Informatics
+      institution: Pennslyvania State University
+      year: 2021
+    - course: MPH concentration in Epidemiology
       institution: Massachusetts Institute of Technology
       year: 2009
     - course: BSc in Artificial Intelligence
