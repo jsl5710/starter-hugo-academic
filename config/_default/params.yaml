@@ -6,10 +6,10 @@
 # Appearance
 
 appearance:
-  theme_day: Forest
-  theme_night: Forest
-  font: Forest
-  font_size: s
+  theme_day: minimal
+  theme_night: minimal
+  font: mr robot
+  font_size: m
 
 # SEO
 
