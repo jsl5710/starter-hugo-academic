@@ -19,6 +19,7 @@ bio: My research interests include distributed robotics, mobile computing and pr
 # Interests to show in About widget
 interests:
   - Artificial Intelligence
+  - Machine Learning
   - Natural Language Processing
   - Misinformation Detection
   - Low-Resource Language Detection
@@ -65,9 +66,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
 # and uncomment the lines below.
- - icon: cv
-   icon_pack: ai
-   link: uploads/resume.pdf
+# - icon: cv
+#   icon_pack: ai
+#   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: 'jsl5710@psu.edu'
@@ -78,5 +79,5 @@ highlight_name: true
 
 I am a second-year doctoral student in Informatics at Penn State University's College of Information Science and Technology. Currently, I work at the Information, Knowledge, and wEb ([PIKE](https://pike.psu.edu/)) Research Lab at Penn State as an AI for Cyber Security researcher under the guidance of Dr. [Dongwon Lee](https://pike.psu.edu/dongwon/). I am researching how to combat misinformation in a long tail. I am primarily interested in developing robust and generalizable prose models for multilingual false claims detection in low-resource languages. This leverages natural language processing (NLP) and artificial intelligence (AI) techniques. My research focuses on bridging the gaps between linguistics, AI, cyber security, public health, and informatics. <!-- I have a strong academic interest in interdisciplinary research that combines cutting-edge NPL and AI to enhance the language robustness of AI-powered tools, including misinformation detection systems, intelligent voice assistants, and computer-based intelligent tutoring systems.  --> My hobbies include dance, fitness, martial arts, and community outreach.
 
-<!--  {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
+ {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
 
