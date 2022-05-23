@@ -25,15 +25,18 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Informatics
+    - course: Ph.D. in Informatics
       institution: Pennslyvania State University
-      year: 2021
-    - course: MPH concentration in Epidemiology
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+      year: 2025
+    - course: MPH con. in Epidemiology
+      institution: St. George's University
+      year: 2020
+    - course: M.Sc in Computer Information Systems con. Health Informatics
+      institution: Boston University
+      year: 2014
+    - course: B.Sc in Information Technology
+      institution: St. George's University 
+      year: 2010
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -51,10 +54,10 @@ social:
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/jsl5710
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/jslu
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
