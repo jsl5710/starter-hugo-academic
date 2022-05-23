@@ -25,7 +25,7 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: test@example.org
+  email: jsl5710@psu.edu
   phone: 954 864 4494
   address:
     street: 123 S Burrowes St
@@ -49,7 +49,7 @@ content:
     - icon: video
       icon_pack: fas
       name: Zoom Me
-      link: 'jsl5710@psu.edu'
+      link: 'https://psu.zoom.us/my/jasonslu'
 
 design:
   columns: '2'
