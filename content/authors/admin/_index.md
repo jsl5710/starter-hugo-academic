@@ -20,7 +20,10 @@ bio: My research interests include distributed robotics, mobile computing and pr
 interests:
   - Artificial Intelligence
   - Natural Language Processing
-  - Information Retrieval
+  - Misinformation Detection
+  - Low-Resource Language Detection
+  - AI-Powered Tools
+  - Public Health
 
 # Education to show in About widget
 education:
