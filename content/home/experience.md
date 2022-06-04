@@ -34,25 +34,26 @@ experience:
     date_start: '2021-08-01'
     date_end: ''
     description: |2-
-        Roles include:
+    #    Roles include:
         
         * Research Assistant
         * Teaching Assistant
 
-  - title: Faculty
-    company: St. George’s University.
+  - title: Certified Teacher I
+    company: Ministry of Education, Government of Grenada
     company_url: 'https://www.sgu.edu/'
-    company_logo: sgulogo
+    company_logo: GOGlogo
     location: Grenada
-    date_start: '2011-12-01'
-    date_end: '2021-07-30'
+    date_start: '2010-08-01'
+    date_end: '2011-07-01'
     description: |2-
-        Roles include:
+    #    Roles include:
         
         * Instructor
         * Demonstrator
         * Adjunt Assistant Professor
         * Facilitator
+  
 
 design:
   columns: '2'
