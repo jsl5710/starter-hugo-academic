@@ -14,7 +14,7 @@ organizations:
     url: https://www.psu.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include machine learning, deep learning, lingisgistics, natural language processing, low-resource langauges and multilingualism.
 
 # Interests to show in About widget
 interests:
