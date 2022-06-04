@@ -30,7 +30,7 @@ item:
   - certificate_url: https://www.pirple.com/certificates/sp45snygqa
     date_end: ''
     date_start: '2021-04-28'
-    description: Python Fundamental
+    description:  Fundamentals of Python, and build 3 real projects. Covers Variables, Functions, Statements, Lists, Loops, Sets, Dictionaries, I/O, Classes, Libraries, Error-Handling and more.
     organization: Purple
     organization_url: https://www.pirple.com/
     title: Python Programming
