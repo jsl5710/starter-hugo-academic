@@ -30,7 +30,7 @@ interests:
 education:
   courses:
     - course: Ph.D. in Informatics
-      institution: [Pennslyvania State University] (https://www.psu.edu/)
+      institution: Pennslyvania State University
       year: 2025
     - course: MPH con. in Epidemiology
       institution: St. George's University
