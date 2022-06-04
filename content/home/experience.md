@@ -26,7 +26,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Graduate Teaching Assistant
+  - title: Graduate Assistant
     company: Pennsylvania State University
     company_url: 'https://ist.psu.edu/'
     company_logo: psulogo2
@@ -34,20 +34,25 @@ experience:
     date_start: '2021-08-01'
     date_end: ''
     description: |2-
-        Responsibilities include:
+        Roles include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Research Assistant
+        * Research Assistant
 
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+  - title: Instrcutor
+    company: St. George’s University.
+    company_url: 'https://www.sgu.edu/'
+    company_logo: shulogo
+    location: Grenada
+    date_start: '2011-12-01'
+    date_end: '2021-7-31'
+    description: |2-
+        Roles include:
+        
+        * Instructor
+        * Demonstrator
+        * Adjunt Assistant Professor
+        * Facilitator
 
 design:
   columns: '2'
