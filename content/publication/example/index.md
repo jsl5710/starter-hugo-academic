@@ -51,7 +51,7 @@ url_code: ''
 url_dataset: https://paperswithcode.com/dataset/coaid
 url_poster: ''
 url_project: ''
-url_slides: CONSTRAINT_2022_Poster.pdf
+url_slides: ''
 url_source: ''
 url_video: ''
 
@@ -75,7 +75,7 @@ projects:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: CONSTRAINT_2022_Poster.pdf
 ---
 
 {{% callout note %}}
