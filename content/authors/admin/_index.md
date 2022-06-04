@@ -79,5 +79,5 @@ highlight_name: true
 
 I am a second-year doctoral student in Informatics at Penn State University's College of Information Science and Technology. Currently, I work at the Information, Knowledge, and wEb ([PIKE](https://pike.psu.edu/)) Research Lab at Penn State as an AI for Cyber Security researcher under the guidance of Dr. [Dongwon Lee](https://pike.psu.edu/dongwon/). I am researching how to combat misinformation in a long tail. I am primarily interested in developing robust and generalizable prose models for multilingual false claims detection in low-resource languages. This leverages natural language processing (NLP) and other artificial intelligence (AI) techniques. My research focuses on bridging the gaps between linguistics, AI, cyber security, public health, and informatics. My hobbies include dance, fitness, martial arts, and community outreach.
 
- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+ {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
 
