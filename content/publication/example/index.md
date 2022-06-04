@@ -51,7 +51,7 @@ url_code: ''
 url_dataset: https://paperswithcode.com/dataset/coaid
 url_poster: ''
 url_project: ''
-url_slides: ''
+url_slides: CONSTRAINT_2022_Poster.pdf
 url_source: ''
 url_video: ''
 
