@@ -75,7 +75,7 @@ projects:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: CONSTRAINT_2022_Poster.pdf
+slides: publication/example/CONSTRAINT_2022_Poster.pdf
 ---
 
 {{% callout note %}}
