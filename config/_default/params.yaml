@@ -6,9 +6,9 @@
 # Appearance
 
 appearance:
-  theme_day: Forest
+  theme_day: coffee
   theme_night: 
-  font: Mr robot
+  font: minimal
   font_size: m
 
 # SEO
