@@ -45,7 +45,7 @@ experience:
     company_logo: sgulogo
     location: Grenada
     date_start: '2011-12-01'
-    date_end: '2021-7-31'
+    date_end: '2021-07-30'
     description: |2-
         Roles include:
         
