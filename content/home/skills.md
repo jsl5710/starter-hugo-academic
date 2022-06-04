@@ -21,7 +21,7 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
   - description: __Python__, __SQL__, Java, LaTex, HTML, CSS
-    icon: square-terminal
+    icon: terminal
     icon_pack: fas
     name: Programming Language
   - description: __Epi Info__, R, GeoDa
@@ -29,7 +29,7 @@ feature:
     icon_pack: fas
     name: Data Analytics
   - description: __PyCharm__, __Google Collab__,IntelliJ, Oracle, MSSQL, MSAccess
-    icon: brain-circuit
+    icon: laptop-code
     icon_pack: fas
     name: Platform
 # Uncomment to use emoji icons.
