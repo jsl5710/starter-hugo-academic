@@ -33,6 +33,10 @@ content:
       tag: '*'
     - name: Deep Learning
       tag: Deep Learning
+    - name: Machine Learning
+      tag: Machine Learning
+    - name: My Research
+      tag: My Research
     - name: Other
       tag: Demo
 
