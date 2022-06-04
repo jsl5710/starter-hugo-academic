@@ -34,7 +34,7 @@ experience:
     date_start: '2021-08-01'
     date_end: ''
     description: |2-
-    #    Roles include:
+        Roles include:
         
         * Research Assistant
         * Teaching Assistant
@@ -47,7 +47,7 @@ experience:
     date_start: '2010-08-01'
     date_end: '2011-07-01'
     description: |2-
-    #    Roles include:
+        Roles include:
         
         * Instructor
         * Demonstrator
