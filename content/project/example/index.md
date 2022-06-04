@@ -18,7 +18,7 @@ links:
   - icon: twitter
     icon_pack: fab
     name: Follow
-    url: https://twitter.com/georgecushen
+    url: https://twitter.com/aclmeeting?lang=en
 url_code: ''
 url_pdf: ''
 url_slides: ''
@@ -32,5 +32,5 @@ url_video: ''
 slides: example
 ---
 
-The [SysFake](https://sites.google.com/site/pikesysfake/home) Project is headed by Dr. Dongwon Lee. 
+My research on combating misinformationin in longtail is a research project under [SysFake](https://sites.google.com/site/pikesysfake/home). The [SysFake](https://sites.google.com/site/pikesysfake/home) project is funded by several grants under [Dr. Dongwon Lee](https://pike.psu.edu/dongwon/) stewardship. 
 
