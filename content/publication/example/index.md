@@ -49,9 +49,9 @@ featured: true
 url_pdf: https://aclanthology.org/2022.constraint-1.11/
 url_code: ''
 url_dataset: https://paperswithcode.com/dataset/coaid
-url_poster: ''
+url_poster: https://drive.google.com/file/d/1XpfKfGIw8NKWGSaorAWKC5Jb-asLkuH3/view?usp=sharing
 url_project: ''
-url_slides: ''
+url_slides: https://drive.google.com/file/d/1oR06tErSbPfyrNwmry4eorOkFvJKVIqO/view?usp=sharing
 url_source: ''
 url_video: ''
 
@@ -75,7 +75,7 @@ projects:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: publication/example/CONSTRAINT_2022_Poster.pdf
+# slides: example
 ---
 
 {{% callout note %}}
