@@ -1,6 +1,6 @@
 ---
 title: SysFake
-summary: An example of using the in-built project page.
+summary: Develop effective computational techniques to detect and prevent fake news.
 tags:
   - My Research
   - Deep Learning
