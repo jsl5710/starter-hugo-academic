@@ -1,5 +1,5 @@
 ---
-title: [SysFake](https://sites.google.com/site/pikesysfake/home)
+title: SysFake
 summary: An example of using the in-built project page.
 tags:
   - My Research
