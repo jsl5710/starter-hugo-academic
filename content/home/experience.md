@@ -29,7 +29,7 @@ experience:
   - title: Graduate Teaching Assistant
     company: Pennsylvania State University
     company_url: 'https://ist.psu.edu/'
-    company_logo: org-gc
+    company_logo: GOGlogo
     location: Pennslyvania
     date_start: '2021-08-01'
     date_end: ''
