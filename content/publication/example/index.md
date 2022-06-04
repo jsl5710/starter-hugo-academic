@@ -1,19 +1,18 @@
 ---
-title: 'An example conference paper'
+title: 'Detecting False Claims in Low-Resource Regions: A Case Study of Caribbean Islands'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Robert Ford
 
 # Author notes (optional)
-author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
+#author_notes:
+#  - 'Equal contribution'
+#  - 'Equal contribution'
 
-date: '2013-07-01T00:00:00Z'
+date: '2020-05-01T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -29,10 +28,10 @@ publication_types: ['1']
 publication: In *Wowchemy Conference*
 publication_short: In *ICW*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: The COVID-19 pandemic has created threats to global health control. Misinformation circulated on social media and news outlets has undermined public trust towards Government and health agencies. This problem is further exacerbated in developing countries or low-resource regions, where the news is not equipped with abundant English fact-checking information. In this paper, we make the first attempt to detect COVID-19 misinformation (in English, Spanish, and Haitian French) populated in the Caribbean regions, using the fact-checked claims in the US (in English). We started by collecting a dataset of Caribbean real & fake claims. Then we trained several classification and language models on COVID-19 in the high-resource language regions and transferred the knowledge to the Caribbean claim dataset. The experimental results of this paper reveal the limitations of current fake claim detection in low-resource regions and encourage further research on multi-lingual detection.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: In this paper, we make the first attempt to detect COVID-19 misinformation (in English, Spanish, and Haitian French) populated in the Caribbean regions, using the fact-checked claims in the US (in English).
 
 tags: []
 
@@ -44,9 +43,9 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: https://aclanthology.org/2022.constraint-1.11/
 url_code: ''
-url_dataset: ''
+url_dataset: https://paperswithcode.com/dataset/coaid
 url_poster: ''
 url_project: ''
 url_slides: ''
