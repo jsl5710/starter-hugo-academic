@@ -20,9 +20,9 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - description: Python, Java, C++, LaTex
+  - description: **Python**, Java, C++, LaTex
     icon: code
-    icon_pack: fab
+    icon_pack: fas
     name: Programming
   - description: 100%
     icon: chart-line
