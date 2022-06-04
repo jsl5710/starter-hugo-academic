@@ -21,7 +21,7 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
   - description: __Python__, __SQL__, Java, LaTex, HTML, CSS
-    icon: rectangle-terminal
+    icon: square-terminal
     icon_pack: fas
     name: Programming Language
   - description: __Epi Info__, R, GeoDa
