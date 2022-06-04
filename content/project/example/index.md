@@ -8,7 +8,7 @@ tags:
 date: '2016-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
-external_link: https://sites.google.com/site/pikesysfake/home
+external_link: ''
 
 image:
   caption: Photo by rawpixel on Unsplash
