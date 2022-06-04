@@ -32,5 +32,5 @@ url_video: ''
 #slides: example
 ---
 
-Combating misinformationin in longtail is a research project under [SysFake](https://sites.google.com/site/pikesysfake/home). The [SysFake](https://sites.google.com/site/pikesysfake/home) project is funded by several grants under [Dr. Dongwon Lee](https://pike.psu.edu/dongwon/) stewardship. My research associated with this project focuses on __multilingualism__, __data scarcity__, __robustness__ and __low-resource languages__ .
+Combating misinformationin in longtail is a research project under [SysFake](https://sites.google.com/site/pikesysfake/home). The [SysFake](https://sites.google.com/site/pikesysfake/home) project is funded by several grants under [Dr. Dongwon Lee's](https://pike.psu.edu/dongwon/) stewardship. My research associated with this project focuses on __multilingualism__, __data scarcity__, __robustness__ and __low-resource languages__ .
 
