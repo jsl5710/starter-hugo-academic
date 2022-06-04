@@ -28,7 +28,7 @@ feature:
     icon: chart-line
     icon_pack: fas
     name: Data Analytics
-  - description: __PyCharm__, __Google Collab__,IntelliJ, Oracle, MSSQL, MSAccess
+  - description: __PyCharm__, __Google Collab__, IntelliJ, Oracle, MSSQL
     icon: laptop-code
     icon_pack: fas
     name: Platform
