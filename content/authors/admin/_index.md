@@ -22,9 +22,7 @@ interests:
   - Machine Learning
   - Natural Language Processing
   - Misinformation Detection
-  - Low-Resource Language Detection
-  - AI-Powered Tools
-  - Public Health
+  - Low-Resource Language 
 
 # Education to show in About widget
 education:
