@@ -37,9 +37,9 @@ experience:
         Roles include:
         
         * Research Assistant
-        * Research Assistant
+        * Teaching Assistant
 
-  - title: Instrcutor
+  - title: Faculty
     company: St. George’s University.
     company_url: 'https://www.sgu.edu/'
     company_logo: sgulogo
