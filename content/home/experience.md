@@ -42,7 +42,7 @@ experience:
   - title: Faculty
     company: St. George's University
     company_url: 'https://www.sgu.edu/'
-    company_logo: GOGlogo
+    company_logo: sgulogo
     location: Grenada
     date_start: '2011-12-01'
     date_end: '2021-07-01'
