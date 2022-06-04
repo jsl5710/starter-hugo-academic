@@ -31,14 +31,16 @@ content:
   filter_button:
     - name: All
       tag: '*'
+    - name: My Research
+      tag: My Research
+    - name: Collaborative
+      tag: Collaborative
     - name: Deep Learning
       tag: Deep Learning
     - name: Machine Learning
       tag: Machine Learning
     - name: My Research
       tag: My Research
-    - name: Other
-      tag: Demo
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
