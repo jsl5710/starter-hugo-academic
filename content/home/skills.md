@@ -20,18 +20,18 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - description: __Python__, Java, LaTex, HTML, CSS
-    icon: code
+  - description: __Python__, __SQL__, Java, LaTex, HTML, CSS
+    icon: rectangle-terminal
     icon_pack: fas
-    name: Programming
-  - description: 100%
+    name: Programming Language
+  - description: __Epi Info__, R, GeoDa
     icon: chart-line
     icon_pack: fas
-    name: Statistics
-  - description: 10%
-    icon: camera-retro
+    name: Data Analytics
+  - description: __PyCharm IDE__, __Google Collab__,IntelliJ IDE, Oracle, MySQL, MS SQL Server, MSAccess
+    icon: code
     icon_pack: fas
-    name: Photography
+    name: Platform
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
