@@ -28,8 +28,8 @@ feature:
     icon: chart-line
     icon_pack: fas
     name: Data Analytics
-  - description: __PyCharm IDE__, __Google Collab__,IntelliJ IDE, Oracle, MySQL, MS SQL Server, MSAccess
-    icon: code
+  - description: __PyCharm__, __Google Collab__,IntelliJ, Oracle, MSSQL, MSAccess
+    icon: brain-circuit
     icon_pack: fas
     name: Platform
 # Uncomment to use emoji icons.
