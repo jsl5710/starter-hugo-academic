@@ -30,7 +30,7 @@ item:
   - certificate_url: https://www.pirple.com/certificates/sp45snygqa
     date_end: ''
     date_start: '2021-04-28'
-    description: 'Python 3 Fundamental'
+    description: "Python 3 Fundamental"
     organization: Purple
     organization_url: [Purple.com](https://www.pirple.com/)
     title: Python Programming
