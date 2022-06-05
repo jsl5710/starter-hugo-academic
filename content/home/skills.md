@@ -25,7 +25,7 @@ feature:
     icon_pack: fas
     name: Programming Language
   - description: __Epi Info__, R, GeoDa
-    icon: chart-scatter
+    icon: chart-line
     icon_pack: fas
     name: Data Analytics
   - description: __PyCharm__, __Google Collab__, IntelliJ, Oracle, MSSQL
