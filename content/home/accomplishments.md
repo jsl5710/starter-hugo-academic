@@ -35,6 +35,15 @@ item:
     organization_url: https://www.pirple.com/
     title: Python Programming
     url: ''
+    
+  - certificate_url: https://www.citiprogram.org/verify/?wecf680dd-b6a9-40f2-a8f4-cb567061cd59-44300524
+    date_end: ''
+    date_start: '2021-08-28'
+    description:  ''
+    organization: The Collaborative Institutional Training Initiative (CITI Program)
+    organization_url: https://about.citiprogram.org/
+    title: Responsible Conduct of Research (RCR) - Basic
+    url: ''
 
 design:
   columns: '2'
