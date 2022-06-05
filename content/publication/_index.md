@@ -11,6 +11,6 @@ view: 4
 
 # Optional header image (relative to `static/media/` folder).
 header:
-  caption: ACL Constraint'22 Presentation
+  caption: ''
   image: ''
 ---
