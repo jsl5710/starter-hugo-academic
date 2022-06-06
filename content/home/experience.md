@@ -39,8 +39,8 @@ experience:
         * Research Assistant
           * Resaerch combating misinformation in longtail with multilintual, scarce and imbalanced data distributions. 
         * Teaching Assistant
-          * Support & reinforecement course professor
           * Assist with attendance, grading, emails and administrative responsibilities
+          * Support & provide reinforecement for course professor as needed
           * Accommodate office hours
 
   - title: Faculty
@@ -55,8 +55,8 @@ experience:
         
         * Instructor
           * Create lectures, direct learning activities and examination questions
-          * Accommodate office hours
           * Manage students questions or concerns
+          * Accommodate office hours
         * Demonstrator
           * Support clinical didactics and examination
           * Headed the B-Line Division
