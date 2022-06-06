@@ -28,8 +28,8 @@ interests:
 education:
   courses:
     - course: Ph.D. in Informatics
-      institution: Pennslyvania State University
-      year: 2025
+      institution: The Pennslyvania State University
+      year: 2025 (expected)
     - course: MPH con. in Epidemiology
       institution: St. George's University
       year: 2020
