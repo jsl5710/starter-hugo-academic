@@ -53,9 +53,15 @@ experience:
         Roles include:
         
         * Instructor
+          * PUBH 302: Introduction to Health Informatics
+          * BPM II: Introduction to Biomedical Informatics
         * Demonstrator
+          * Support clinical didactics and examination
+          * Headed the B-Line Division
         * Adjunt Assistant Professor
+          * COMP 420: Database Systems course
         * Facilitator
+          * Undergrad tutoring and small group facilitation 
   
   - title: Certified Teacher I
     company: Ministry of Education, Government of Grenada
@@ -67,7 +73,8 @@ experience:
     description: |2-
         Roles include:
         
-        * Information Technology Teacher
+        * Information technology Teacher
+          * Caribbean Secondary Education Teacher  
    
   
 
