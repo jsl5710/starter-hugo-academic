@@ -55,7 +55,7 @@ experience:
         
         * Instructor
           * Create lectures, direct learning activities and examination questions
-          * Manage students questions or concerns
+          * Manage students' questions or concerns
           * Accommodate office hours
         * Demonstrator
           * Support clinical didactics and examination
@@ -65,7 +65,7 @@ experience:
         * Adjunt Assistant Professor
           * Direct course, lectures and lab sessions
           * Create, proctor, and grade asessments
-          * Manage student questions and concerns 
+          * Manage students' questions and concerns 
         * Facilitator
           * Undergrad tutoring and small group facilitation 
   
@@ -80,7 +80,10 @@ experience:
         Roles include:
         
         * Information technology Teacher
-          * Caribbean Secondary Education Teacher  
+          * Manage IT Lab and assigned class
+          * Direct IT course, examinations and lab sessions
+          * Manage students' questions and concerns 
+          * Prepare students for the Caribbean Secondary Education Exam 
    
   
 
