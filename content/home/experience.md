@@ -37,7 +37,10 @@ experience:
         Roles include:
         
         * Research Assistant
+          * Combating misinformation in longtail with scarce and imbalanced data. 
         * Teaching Assistant
+          * IST 140: Introduction to Application Development
+          * IST 210: Organization of Data
 
   - title: Faculty
     company: St. George's University
