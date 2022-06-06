@@ -18,8 +18,6 @@ bio: My research interests include machine learning, deep learning, lingisgistic
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Machine Learning
   - Natural Language Processing
   - Misinformation Detection
   - Low-Resource Language 
@@ -29,7 +27,7 @@ education:
   courses:
     - course: Ph.D. in Informatics
       institution: The Pennslyvania State University
-      year: 2025 (expected)
+      year: current
     - course: MPH con. in Epidemiology
       institution: St. George's University
       year: 2020
@@ -76,7 +74,7 @@ email: 'jsl5710@psu.edu'
 highlight_name: true
 ---
 
-I am a second-year doctoral student in Informatics at Penn State University's College of Information Science and Technology. Currently, I work at the Information, Knowledge, and wEb ([PIKE](https://pike.psu.edu/)) Research Lab at Penn State University as an AI for Cyber Security researcher under the guidance of Dr. [Dongwon Lee](https://pike.psu.edu/dongwon/). I am researching how to combat misinformation in a long tail. I am primarily interested in developing robust and generalizable prose models for multilingual false claims detection in low-resource languages. This leverages lingistics, natural language processing and AI  techniques. My research focuses on bridging the gaps between linguistics, AI, cyber security, public health, and informatics. My hobbies include dance, fitness, martial arts, and community outreach.
+I am a second-year doctoral student in Informatics at Penn State University's College of Information Science and Technology. Currently, I work at the Information, Knowledge, and wEb ([PIKE](https://pike.psu.edu/)) Research Lab at Penn State University as an AI for Cyber Security researcher under the guidance of Dr. [Dongwon Lee](https://pike.psu.edu/dongwon/). I am researching how to combat misinformation in a long tail. I am primarily interested in developing robust and generalizable prose models for multilingual false claims detection in low-resource languages. This leverages lingistics, natural language processing and AI techniques. My research focuses on bridging the gaps between linguistics, AI, cyber security, public health, and informatics. My hobbies include dance, fitness, martial arts, and community outreach.
 
  {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
 
