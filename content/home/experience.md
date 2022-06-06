@@ -40,7 +40,7 @@ experience:
           * Resaerch combating misinformation in longtail with multilintual, scarce and imbalanced data distributions. 
         * Teaching Assistant
           * Support & reinforecement course professor
-          * Assist with attendance, grading, and administrative responsibilities
+          * Assist with attendance, grading, emails and administrative responsibilities
           * Accommodate office hours
 
   - title: Faculty
@@ -54,13 +54,16 @@ experience:
         Roles include:
         
         * Instructor
-          * PUBH 302: Introduction to Health Informatics
-          * BPM II: Introduction to Biomedical Informatics
+          * Create lectures, direct learning activities and examination questions
+          * Accommodate office hours
+          * Manage students questions or concerns
         * Demonstrator
           * Support clinical didactics and examination
           * Headed the B-Line Division
         * Adjunt Assistant Professor
-          * COMP 420: Database Systems course
+          * Direct course, lectures and lab sessions
+          * create, proctor, and grade asessment
+          * manage student questions and concerns 
         * Facilitator
           * Undergrad tutoring and small group facilitation 
   
