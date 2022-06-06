@@ -27,7 +27,7 @@ education:
   courses:
     - course: Ph.D. in Informatics
       institution: The Pennslyvania State University
-      year: 2025 [EXpected]
+      year: _____
     - course: MPH con. in Epidemiology
       institution: St. George's University
       year: 2020
