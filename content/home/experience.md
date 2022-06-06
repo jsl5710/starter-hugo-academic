@@ -60,10 +60,12 @@ experience:
         * Demonstrator
           * Support clinical didactics and examination
           * Headed the B-Line Division
+          * Administrator for SimCapture platform
+          * Exam manager for Examsoft platform
         * Adjunt Assistant Professor
           * Direct course, lectures and lab sessions
-          * create, proctor, and grade asessment
-          * manage student questions and concerns 
+          * Create, proctor, and grade asessments
+          * Manage student questions and concerns 
         * Facilitator
           * Undergrad tutoring and small group facilitation 
   
