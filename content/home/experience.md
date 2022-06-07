@@ -79,11 +79,11 @@ experience:
     description: |2-
         Roles include:
         
-        * Information technology Teacher
-          * Manage IT Lab and assigned class
+        * Information Technology Teacher
+          * Manage IT lab and assigned class
           * Direct IT course, examinations and lab sessions
           * Manage students' questions and concerns 
-          * Prepare students for the Caribbean Secondary Education Exam 
+          * Prepare students for the Caribbean Secondary Education Exam (CXC)
    
   
 
