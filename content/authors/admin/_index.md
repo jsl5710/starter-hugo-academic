@@ -21,6 +21,7 @@ interests:
   - Natural Language Processing
   - Misinformation Detection
   - Low-Resource Language 
+  - Multilingualism
 
 # Education to show in About widget
 education:
