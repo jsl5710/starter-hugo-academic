@@ -29,7 +29,7 @@ experience:
   - title: Graduate Assistant
     company: The Pennsylvania State University
     company_url: 'https://ist.psu.edu/'
-    company_logo: psulogo2
+    company_logo: psulogoX
     location: Pennslyvania
     date_start: '2021-08-01'
     date_end: ''
@@ -46,7 +46,7 @@ experience:
   - title: Faculty
     company: St. George's University
     company_url: 'https://www.sgu.edu/'
-    company_logo: sgulogo
+    company_logo: sgulogoX
     location: Grenada
     date_start: '2011-12-01'
     date_end: '2021-07-01'
