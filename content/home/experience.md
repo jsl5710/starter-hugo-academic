@@ -37,10 +37,10 @@ experience:
         Roles include:
         
         * Research Assistant
-          * Resaerch combating misinformation in longtail with multilintual, scarce and imbalanced data distributions. 
+          * Research combating misinformation in longtail with multilingual, multidomain scarce, and imbalanced data distributions.
         * Teaching Assistant
-          * Assist with attendance, grading, emails and administrative responsibilities
-          * Support & provide reinforecement for course professor as needed
+          * Assist with attendance, grading, emails, and administrative responsibilities
+          * Support & provide reinforcement for course professor as needed
           * Accommodate office hours
 
   - title: Faculty
@@ -63,8 +63,8 @@ experience:
           * Administrator for SimCapture platform
           * Exam manager for Examsoft platform
         * Adjunt Assistant Professor
-          * Direct course, lectures and lab sessions
-          * Create, proctor, and grade asessments
+          * Direct course, lectures, and lab sessions
+          * Create, proctor, and grade assessments
           * Manage students' questions and concerns 
         * Facilitator
           * Undergrad tutoring and small group facilitation 
@@ -81,9 +81,9 @@ experience:
         
         * Information Technology Teacher
           * Manage IT lab and assigned class
-          * Direct IT course, examinations and lab sessions
+          * Direct IT course, examinations, and lab sessions
           * Manage students' questions and concerns 
-          * Prepare students for the Caribbean Secondary Education Exam (CXC)
+          * Prepare students for the Caribbean Secondary Education Exam (CXC CSEC)
    
   
 
