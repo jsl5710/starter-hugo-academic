@@ -71,7 +71,7 @@ experience:
   
   - title: Certified Teacher I
     company: Ministry of Education, Government of Grenada
-    company_url: 'https://www.sgu.edu/'
+    company_url: 'http://gov.gd/'
     company_logo: GOGlogo
     location: Grenada
     date_start: '2010-08-01'
