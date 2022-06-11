@@ -27,6 +27,15 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
+   - certificate_url: https://lindiv.la.psu.edu/
+    date_end: ''
+    date_start: '2022-06-10'
+    description: The NSF Research Traineeship program “Linguistic diversity across the lifespan: Transforming training to advance human-technology interaction” (LinDiv) is a two-year graduate certificate program that educates a new generation of experts in human-technology interaction who can create technological innovations that benefit a broad range of linguistically and culturally diverse language users of different ages and of different abilities.
+    organization: National Science Foundation (NSF)
+    organization_url: https://lindiv.la.psu.edu/
+    title: NRT Linguistic Diversity Across the Lifespan (LINDIV) NSF Graduate Fellowship 
+    url: ''
+    
   - certificate_url: https://www.pirple.com/certificates/sp45snygqa
     date_end: ''
     date_start: '2021-04-28'
