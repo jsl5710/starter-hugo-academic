@@ -6,9 +6,9 @@
 # Appearance
 
 appearance:
-  theme_day: Forest
-  theme_night: Forest
-  font: Rose
+  theme_day: Mr Robert
+  theme_night: Mr Robert
+  font: Mr Robert
   font_size: m
 
 # SEO
