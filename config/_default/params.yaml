@@ -6,8 +6,8 @@
 # Appearance
 
 appearance:
-  theme_day: Mr robot
-  theme_night: 
+  theme_day: Cyberpunk
+  theme_night: Cyberpunk
   font: minimal
   font_size: m
 
