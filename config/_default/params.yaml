@@ -18,7 +18,7 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'Ph.D. Candidate at Penn State with a robust acedemic interest in Multilingual AI, Cyber Security, Human Language Technology and Public Health '
+    description: 'Ph.D. Candidate at Penn State with a robust academic interest in Multilingual AI, Cyber Security, Human Language Technology, and Public Health.'
     twitter: 'wowchemy'
   analytics:
     google_analytics: ''
@@ -74,7 +74,7 @@ features:
     content_dir: content
     branch: master
   avatar:
-    gravatar: false
+    gravatar: true
     shape: circle
   comment:
     provider: ''
