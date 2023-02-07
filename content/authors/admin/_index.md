@@ -18,10 +18,13 @@ bio: My research interests include machine learning, deep learning, lingisgistic
 
 # Interests to show in About widget
 interests:
+  - Cyber Security
+  - Human Language Technology
   - Natural Language Processing
-  - Misinformation Detection
-  - Low-Resource Language 
-  - Multilingualism
+  - Fake News Detection
+  - Multilingual AI
+  - Multi-domain Distributions
+  - Low-Resource Languages 
 
 # Education to show in About widget
 education:
@@ -75,7 +78,7 @@ email: 'jsl5710@psu.edu'
 highlight_name: true
 ---
 
-Unleashing the power of AI and NPL to tackle misinformation, I'm a PhD candidate at Penn State's College of Information Science and Technology. As a Data Science & AI  researcher at the [PIKE](https://pike.psu.edu/) Lab researcher under the guidance of Dr. [Dongwon Lee](https://pike.psu.edu/dongwon/), I delve into cutting-edge solutions to combat long-tail fake news, with a focus on interdisciplinary research. Fueled by an [NSF] Research Graduate Traineeship, I bring my passion for linguistics, AI, cyber security, public health, and natural langauge processing to enhance systems such as misinformation detector systems and human language technology. Outside of academia, I dance to my own rhythm, train in martial arts, and give back through community volunteer work.
+Unleashing the power of AI and NPL to tackle misinformation, I'm a PhD candidate at Penn State's College of Information Science and Technology. As a Data Science & AI  researcher at the [PIKE](https://pike.psu.edu/) Lab under the advisement of Dr. [Dongwon Lee](https://pike.psu.edu/dongwon/), I delve into cutting-edge solutions to combat long-tail fake news, with a focus on interdisciplinary research. Fueled by an [NSF LinDiv](https://lindiv.la.psu.edu/) Research Graduate Traineeship, I bring my passion for linguistics, AI, cyber security, public health, and natural langauge processing to enhance systems such as AI-powered fake news detectors and human language technology. Outside of academia, I dance to my own rhythm, train in martial arts, and give back through community volunteer work.
 
 
  {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
