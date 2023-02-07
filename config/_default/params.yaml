@@ -74,12 +74,12 @@ features:
     content_dir: content
     branch: master
   avatar:
-    gravatar: true
+    gravatar: false
     shape: circle
   comment:
     provider: ''
     disqus:
-      shortname: ''
+      shortname: 'J.Lucas'
       show_count: true
     commento:
       url: ''
