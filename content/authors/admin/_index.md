@@ -21,10 +21,11 @@ interests:
   - Cyber Security
   - Human Language Technology
   - Natural Language Processing
-  - Fake News Detection
-  - Multilingual AI
-  - Multi-domain Distributions
-  - Low-Resource Languages 
+  - Multilingual NLP
+  - Cross-lingual NLP
+  - Multi-domain & Longtail Data Distributions
+  - Low-Resource Languages
+  - Fake News Detection 
 
 # Education to show in About widget
 education:
