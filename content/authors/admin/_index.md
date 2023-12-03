@@ -78,7 +78,9 @@ email: 'jsl5710@psu.edu'
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-Unleashing the power of AI and NLP, I am a Ph.D. student at Penn State, pursuing interdisciplinary research in data science and AI for cybersecurity. As part of the \[College of IST\] (**https://ist.psu.edu/\\*\\), I conduct research at the PIKE Research Lab under the guidance of Dr. \[Dongwon Lee\](**https://pike.psu.edu/dongwon/\\*\\). I focus on applying NLP and machine learning techniques to combat disinformation across languages, contexts, and distribution gaps. At Penn State, I serve as an \[NSF LinDiv\](**https://lindiv.la.psu.edu/\\*\\) Fellow, conducting transdisciplinary research to advance human-AI interaction globally. My mission is to mitigate evolving security threats and enhance access to human language technology  for all. Beyond research, I stay active through dance, fitness, martial arts, and community service. 
+
+
+Unleashing the power of AI and NLP, I am a Ph.D. student at Penn State, pursuing interdisciplinary research in data science and AI for cybersecurity. As part of the [***College of IST***] (https://ist.psu.edu/), I conduct research at the PIKE Research Lab under the guidance of Dr.[Dongwon Lee](https://pike.psu.edu/dongwon/). I focus on applying NLP and machine learning techniques to combat disinformation across languages, contexts, and distribution gaps. At Penn State, I serve as an [***NSF LinDiv***](https://lindiv.la.psu.edu/) Fellow, conducting transdisciplinary research to advance human-AI interaction globally. My mission is to mitigate evolving security threats and enhance access to human language technology  for all. Beyond research, I stay active through dance, fitness, martial arts, and community service. 
 
  {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
 
