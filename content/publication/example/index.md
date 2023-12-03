@@ -53,7 +53,7 @@ url_poster: https://drive.google.com/file/d/1XpfKfGIw8NKWGSaorAWKC5Jb-asLkuH3/vi
 url_project: ''
 url_slides: https://drive.google.com/file/d/1oR06tErSbPfyrNwmry4eorOkFvJKVIqO/view?usp=sharing
 url_source: ''
-url_video: ''
+url_video: 'https://underline.io/lecture/51553-detecting-false-claims-in-low-resource-regions-a-case-study-of-caribbean-islands'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
