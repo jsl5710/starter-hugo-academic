@@ -1,5 +1,5 @@
 ---
-title: 'Detecting False Claims in Low-Resource Regions: A Case Study of Caribbean Islands'
+title: 'Fighting Fire with Fire: The Dual Role of LLMs in Crafting and Detecting Elusive Disinformation'
 
 # Authors
 # If you created a profile for a user (e.g., the default `admin` user), write the username (folder name) here
