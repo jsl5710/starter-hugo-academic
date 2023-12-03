@@ -42,9 +42,9 @@ tags: []
 featured: true
 
 # Custom links (uncomment lines below)
- links:
- - name: Custom Link
-   url: http://example.org
+# links:
+# - name: Custom Link
+#   url: http://example.org
 
 url_pdf: https://aclanthology.org/2022.constraint-1.11/
 url_code: ''
