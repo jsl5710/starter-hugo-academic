@@ -14,7 +14,7 @@ organizations:
     url: https://www.psu.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include machine learning, deep learning, lingisgistics, natural language processing, low-resource langauges and multilingualism.
+bio: My research interests include machine learning, deep learning, multilingual and cross-lingual natural language processing, linguistics, and low-resource languages.
 
 # Interests to show in About widget
 interests:
@@ -32,7 +32,7 @@ education:
   courses:
     - course: Ph.D. in Informatics
       institution: The Pennslyvania State University
-      year: _______
+      year: 2025
     - course: MPH con. in Epidemiology
       institution: St. George's University
       year: 2020
@@ -66,7 +66,7 @@ social:
     link: https://www.linkedin.com/in/jslu
 
 # Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
+# To use: copy your resume to `static/uploads/JSL_Resume.pdf`, enable `ai` icons in `params.toml`,
 # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
@@ -78,9 +78,7 @@ email: 'jsl5710@psu.edu'
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-
-Unleashing the power of AI and NLP to tackle misinformation, I'm a PhD candidate at Penn State's College of Information Science and Technology. As a Data Science & AI  researcher at the [PIKE](https://pike.psu.edu/) Lab under the advisement of Dr. [Dongwon Lee](https://pike.psu.edu/dongwon/), I delve into cutting-edge solutions to combat long-tail fake news, with a focus on interdisciplinary research. Fueled by an [NSF LinDiv](https://lindiv.la.psu.edu/) Research Graduate Traineeship, I bring my passion for linguistics, AI, cyber security, public health, and natural langauge processing to enhance systems such as AI-powered fake news detectors and human language technology. Outside of academia, I dance to my own rhythm, train in martial arts, and give back through community volunteer work.
-
+Unleashing the power of AI and NLP, I am a Ph.D. student at Penn State, pursuing interdisciplinary research in data science and AI for cybersecurity. As part of the \[College of IST\] (**https://ist.psu.edu/\\*\\), I conduct research at the PIKE Research Lab under the guidance of Dr. \[Dongwon Lee\](**https://pike.psu.edu/dongwon/\\*\\). I focus on applying NLP and machine learning techniques to combat disinformation across languages, contexts, and distribution gaps. At Penn State, I serve as an \[NSF LinDiv\](**https://lindiv.la.psu.edu/\\*\\) Fellow, conducting transdisciplinary research to advance human-AI interaction globally. My mission is to mitigate evolving security threats and enhance access to human language technology  for all. Beyond research, I stay active through dance, fitness, martial arts, and community service. 
 
  {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
 
