@@ -19,7 +19,7 @@ date: '2022-05-01T00:00:00Z'
 doi: 10.18653/v1/2022.constraint-1.11
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2022-05-01T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
