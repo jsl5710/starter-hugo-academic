@@ -20,7 +20,7 @@ bio: My research interests include machine learning, deep learning, multilingual
 interests:
   - Natural Language Processing
   - Adversarial Machine Learning
-  - Adaptation and Alignment Tuning
+  - Adaptative and Alignment Tuning
   - Low-Resource Multilingual and NLP
   - Fake News Generation and Detection
 
