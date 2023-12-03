@@ -19,8 +19,10 @@ bio: My research interests include machine learning, deep learning, multilingual
 # Interests to show in About widget
 interests:
   - Natural Language Processing
-  - Low-Resource Multilingual and Cross-lingual NLP
-  - Fake News Generation and Detection 
+  - Machine Learning
+  - Model Adaptation and Alignment
+  - Low-Resource Multilingual and NLP
+  - Fake News Generation and Detection
 
 # Education to show in About widget
 education:
