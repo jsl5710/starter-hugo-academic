@@ -11,7 +11,7 @@ active: true
 headless: true
 
 # Order that this section appears on the page.
-weight: 65
+weight: 20
 
 title: Projects
 subtitle: ''
@@ -31,16 +31,16 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: My Research
-      tag: My Research
-    - name: Collaborative
-      tag: Collaborative
-    - name: Deep Learning
-      tag: Deep Learning
-    - name: Machine Learning
-      tag: Machine Learning
-    - name: Other
-      tag: Other
+    - name: C-Transfer
+      tag: C-Transfer
+    - name: F3
+      tag: F3
+    - name: GREENLAND
+      tag: GREENLAND
+    - name: X-GEN
+      tag: X-GEN
+    - name: Collaboration
+      tag: Collaboration
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
@@ -54,5 +54,5 @@ design:
   view: 2
 
   # For Showcase view, flip alternate rows?
-  flip_alt_rows: false
+  flip_alt_rows: true
 ---
